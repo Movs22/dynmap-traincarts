@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/tiago/Documents/GitHub/dynmap/target/dynmap-api-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/tiago/Documents/GitHub/dynmap/target/DynmapCore-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/tiago/Documents/GitHub/dynmap/target/DynmapCoreAPI-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/tiago/BuildTools/Spigot/Spigot-API/target/spigot-api-1.20.2-R0.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="/Users/tiago/.m2/repository/com/movies22/cashcraft/TrainCarts2/1.20.1/TrainCarts2-1.20.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
