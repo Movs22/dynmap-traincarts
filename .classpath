@@ -7,5 +7,6 @@
 	<classpathentry kind="lib" path="/Users/tiago/Documents/GitHub/dynmap/target/DynmapCoreAPI-3.7-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="/Users/tiago/BuildTools/Spigot/Spigot-API/target/spigot-api-1.20.2-R0.1-SNAPSHOT-shaded.jar"/>
 	<classpathentry kind="lib" path="/Users/tiago/.m2/repository/com/movies22/cashcraft/TrainCarts2/1.20.1/TrainCarts2-1.20.1.jar"/>
+	<classpathentry kind="lib" path="/Users/tiago/Downloads/BKCommonLib-1.20.2-v1-1634 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
