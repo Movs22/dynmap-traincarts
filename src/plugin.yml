@@ -1,0 +1,10 @@
+name: Dynmap-TrainCarts
+description: dynmap extension for Traincarts2
+authors: [Movies22, JackG_UK]
+api-version: '1.20'
+version: 1.0
+softdepend: [TrainCarts2, dynmap]
+
+main: com.movies22.cashcraft.tc.dynmap.Main
+
+commands:

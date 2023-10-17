@@ -17,5 +17,6 @@
 	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/dynmap-api-3.7-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/DynmapCoreAPI-3.7-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/BKCommonLib-1.20.2-v1-1634_1.jar"/>
+	<classpathentry kind="lib" path="/Users/tiago/Downloads/BKCommonLib-1.20.2-v1-1634 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
