@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="lib" path="/Users/tiago/Documents/GitHub/dynmap/target/dynmap-api-3.7-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="/Users/tiago/Documents/GitHub/dynmap/target/DynmapCore-3.7-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="/Users/tiago/Documents/GitHub/dynmap/target/DynmapCoreAPI-3.7-SNAPSHOT.jar"/>
 	<classpathentry kind="lib" path="/Users/tiago/BuildTools/Spigot/Spigot-API/target/spigot-api-1.20.2-R0.1-SNAPSHOT-shaded.jar"/>
 	<classpathentry kind="lib" path="/Users/tiago/.m2/repository/com/movies22/cashcraft/TrainCarts2/1.20.1/TrainCarts2-1.20.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/spigot-api-1.20.2-R0.1-SNAPSHOT-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/DynmapCore-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/TrainCarts2-1.20.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/dynmap-api-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/DynmapCoreAPI-3.7-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/jackj/Downloads/BKCommonLib-1.20.2-v1-1634_1.jar"/>
 	<classpathentry kind="lib" path="/Users/tiago/Downloads/BKCommonLib-1.20.2-v1-1634 (1).jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
